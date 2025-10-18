@@ -14,5 +14,5 @@ Each project demonstrates skills in:
 - Agile development & UI design
 
 ## 📫 Contact
-- Email: youremail@example.com  
-- LinkedIn: [linkedin.com/in/egemen](#)
+- Email: egemenkinayy@gmail.com
+- LinkedIn: [[linkedin.com/in/egemen](#)](https://www.linkedin.com/in/egemen-k%C4%B1nay-b96a2a372/)
