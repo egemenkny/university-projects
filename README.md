@@ -15,4 +15,4 @@ Each project demonstrates skills in:
 
 ## 📫 Contact
 - Email: egemenkinayy@gmail.com
-- LinkedIn: [[linkedin.com/in/egemen](#)](https://www.linkedin.com/in/egemen-k%C4%B1nay-b96a2a372/)
+- LinkedIn: [[linkedin.com/in/egemen](#)]
